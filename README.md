@@ -1,14 +1,13 @@
 ## Stas Werno 2022 Front-End Coding Exercise
 
-Please run:
+To view the project in development mode, please:
 
-### `npm install`
+1. Run`npm install`
+2. Run`npm start`
+3. Head to [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### `npm start`
+Check out the deployed component here: [Deployed Link](https://staswerno.github.io/staswerno-2022-front-end-coding-exercise/).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+All source files are also available to download directly in the link sent in my email.
 
-Alternatively, check out the component here: [Deployed Link](UPDATE LINK WHEN READY).
-
-Answers to questions here:
+Requested answers to coding-exercise questions available in pdf format here: [Exercise Answers](LINK FILE HERE).
