@@ -1,0 +1,23 @@
+@font-face {
+	font-family: "Futura-main";
+	src: url("fonts/futura-pt-book.woff2") format("woff2"),
+		url("fonts/futura-pt-book.woff") format("woff");
+}
+
+@font-face {
+	font-family: "Futura-bold";
+	src: url("fonts/futura-pt-medium.woff2") format("woff2"),
+		url("fonts/futura-pt-medium.woff") format("woff");
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: "Futura-italic";
+	src: url("fonts/futura-pt-book-oblique.woff2") format("woff2"),
+		url("fonts/futura-pt-book-oblique.woff") format("woff");
+	font-style: italic;
+}
+
+body {
+	font-family: Futura, sans-serif;
+}
