@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/staswerno-2022-front-end-coding-exercise/static/css/main.2634d9f3.css",
+    "main.js": "/staswerno-2022-front-end-coding-exercise/static/js/main.2c1086d7.js",
+    "static/media/chop-and-swing.jpg": "/staswerno-2022-front-end-coding-exercise/static/media/chop-and-swing.693f042902c1c61ebf9d.jpg",
+    "static/media/punch-and-tilt.jpg": "/staswerno-2022-front-end-coding-exercise/static/media/punch-and-tilt.bd449aa35ead94182498.jpg",
+    "static/media/skitter-and-step.jpg": "/staswerno-2022-front-end-coding-exercise/static/media/skitter-and-step.a417bd7dbc01e4a90d65.jpg",
+    "static/media/drum-essentials.jpg": "/staswerno-2022-front-end-coding-exercise/static/media/drum-essentials.7aab3f66d3fd889cbc53.jpg",
+    "static/media/glitch-and-wash.jpg": "/staswerno-2022-front-end-coding-exercise/static/media/glitch-and-wash.8f75014b954c675ffcd2.jpg",
+    "static/media/drum-booth.jpg": "/staswerno-2022-front-end-coding-exercise/static/media/drum-booth.547f5d2e59ffd49ae302.jpg",
+    "static/media/electric-keyboards.jpg": "/staswerno-2022-front-end-coding-exercise/static/media/electric-keyboards.162fda1e98b9e94a43df.jpg",
+    "static/media/synth-essentials.jpg": "/staswerno-2022-front-end-coding-exercise/static/media/synth-essentials.7fc713393bdb00ba8fe3.jpg",
+    "static/media/futura-pt-book-oblique.woff": "/staswerno-2022-front-end-coding-exercise/static/media/futura-pt-book-oblique.0f168b52b37d371fa1f7.woff",
+    "static/media/futura-pt-book.woff": "/staswerno-2022-front-end-coding-exercise/static/media/futura-pt-book.09138f721dd158dc6c82.woff",
+    "static/media/futura-pt-medium.woff": "/staswerno-2022-front-end-coding-exercise/static/media/futura-pt-medium.1244915eeb74220782a3.woff",
+    "static/media/futura-pt-book-oblique.woff2": "/staswerno-2022-front-end-coding-exercise/static/media/futura-pt-book-oblique.0723f918cdeff2dbf466.woff2",
+    "static/media/futura-pt-book.woff2": "/staswerno-2022-front-end-coding-exercise/static/media/futura-pt-book.a3584e532ba3ad986306.woff2",
+    "static/media/futura-pt-medium.woff2": "/staswerno-2022-front-end-coding-exercise/static/media/futura-pt-medium.d636482c64ae4e624a66.woff2",
+    "static/media/core-library.jpg": "/staswerno-2022-front-end-coding-exercise/static/media/core-library.507fcb2157bc513aa156.jpg",
+    "index.html": "/staswerno-2022-front-end-coding-exercise/index.html",
+    "static/media/pause-icon.svg": "/staswerno-2022-front-end-coding-exercise/static/media/pause-icon.bce3787b36573fafd381a5de036948c5.svg",
+    "static/media/play-icon.svg": "/staswerno-2022-front-end-coding-exercise/static/media/play-icon.9d6939ced56ae8142787e4776226eb76.svg",
+    "main.2634d9f3.css.map": "/staswerno-2022-front-end-coding-exercise/static/css/main.2634d9f3.css.map",
+    "main.2c1086d7.js.map": "/staswerno-2022-front-end-coding-exercise/static/js/main.2c1086d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2634d9f3.css",
+    "static/js/main.2c1086d7.js"
+  ]
+}
