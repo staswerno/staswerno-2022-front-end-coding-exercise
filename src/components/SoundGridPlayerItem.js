@@ -15,7 +15,7 @@ export default function SoundGridPlayerItem({
 				backgroundSize: "cover",
 			}}
 		>
-			<div className="hidden sm:block absolute bottom-0 w-full h-1/3 bg-gradient-to-t from-black"></div>
+			<div className="hidden md:block absolute bottom-0 w-full h-1/3 bg-gradient-to-t from-black"></div>
 			<div className="self-end flex relative">
 				<div className="h-[36px] w-[36px] bg-ableton-purple flex">
 					<button className="m-auto" onClick={playHandler}>
@@ -26,7 +26,7 @@ export default function SoundGridPlayerItem({
 						)}
 					</button>
 				</div>
-				<div className="hidden sm:block ml-3 font-book text-xs self-center text-white">
+				<div className="hidden md:block ml-3 font-medium text-xs self-center text-white">
 					{element.name}
 				</div>
 			</div>
