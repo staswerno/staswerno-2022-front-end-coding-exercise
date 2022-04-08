@@ -6,6 +6,7 @@ export default function SoundGridPlayerItem({
 	index,
 	playHandler,
 	selectedSound,
+	isPlaying,
 }) {
 	return (
 		<div
@@ -19,7 +20,7 @@ export default function SoundGridPlayerItem({
 			<div className="self-end flex relative">
 				<div className="h-[36px] w-[36px] bg-ableton-purple flex">
 					<button className="m-auto" onClick={playHandler}>
-						{selectedSound === index ? (
+						{selectedSound === index && isPlaying ? (
 							<img src={pauseicon} alt="pause button" />
 						) : (
 							<img src={playicon} alt="play button" />

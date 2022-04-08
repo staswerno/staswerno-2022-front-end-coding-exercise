@@ -1,6 +1,6 @@
 ## Stas Werno 2022 Front-End Coding Exercise
 
-To view the project in development mode, please:
+To view the project in development mode:
 
 1. Run `npm install`
 2. Run `npm start`
