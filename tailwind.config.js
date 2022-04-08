@@ -14,6 +14,9 @@ module.exports = {
 				xl: "1280px",
 				"2xl": "1536px",
 			},
+			colors: {
+				"ableton-purple": "#0000FE",
+			},
 		},
 	},
 	plugins: [],
